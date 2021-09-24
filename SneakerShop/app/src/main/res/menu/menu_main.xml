@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="th.ac.cpc.sneakershop.MainActivity">
+
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_baseline_cart_24"
+            app:showAsAction="ifRoom"
+            android:title="ตะกร้าสินค้า" />
+
+
+</menu>
